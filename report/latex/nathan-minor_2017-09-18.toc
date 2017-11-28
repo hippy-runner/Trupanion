@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Estimating Customer Value}{3}{section.1}
+\contentsline {section}{\numberline {2}Predicting Policy Payouts (option b)}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Background}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Assumptions}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Definitions}{6}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Terms}{6}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Variables}{6}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Equations}{7}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}Computer Model}{7}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Procedure}{7}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Class Structures}{9}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.5}Results}{10}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Predictions for January 2017}{10}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Predictions for Comparison}{11}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Application Profiling}{14}{subsubsection.2.5.3}
+\contentsline {subsection}{\numberline {2.6}Conclusions}{15}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Further Work}{16}{subsection.2.7}
